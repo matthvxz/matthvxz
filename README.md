@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1 >Olá, sou Matheus.</h1>
+  <h1 >Olá, sou Matthew.</h1>
 </div>
 
 <div align="center">
